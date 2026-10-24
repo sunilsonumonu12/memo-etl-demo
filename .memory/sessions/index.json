@@ -1,0 +1,13 @@
+[
+  {
+    "sid": "2ca4c7e9-0e05-4e33-a9d1-811addf11a0a",
+    "agent": "claude-code",
+    "date": "2026-10-24",
+    "start": "2026-10-24T16:13:38.099+05:30",
+    "end": "2026-10-24T16:14:12.034+05:30",
+    "events": 8,
+    "processedThrough": 0,
+    "summary": "",
+    "status": "ended"
+  }
+]
