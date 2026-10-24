@@ -3,7 +3,7 @@ setlocal
 title Initialize memo-etl-demo Repository
 
 cd /d "%~dp0"
-set "REPO_URL=https://github.com/sunil5151/memo-etl-demo.git"
+set "REPO_URL= https://github.com/sunilsonumonu12/memo-etl-demo.git"
 
 echo.
 echo === memo-etl-demo Repository Setup ===

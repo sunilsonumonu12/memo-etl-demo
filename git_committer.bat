@@ -3,7 +3,7 @@ setlocal
 title Git Add Commit Push - memo-etl-demo
 
 cd /d "%~dp0"
-set "REPO_URL=https://github.com/sunil5151/memo-etl-demo.git"
+set "REPO_URL=https://github.com/sunilsonumonu12/memo-etl-demo.git"
 
 echo.
 echo === Git Status ===
